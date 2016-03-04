@@ -6,5 +6,6 @@
         <file alias="room4">img/4.jpg</file>
         <file alias="room5">img/5.jpg</file>
         <file alias="room0">img/6.jpg</file>
+        <file alias="background">img/background.png</file>
     </qresource>
 </RCC>

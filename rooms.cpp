@@ -23,7 +23,9 @@ Rooms::Rooms(QWidget *parent,int floor) :
         switch(query->value("state").toInt()){
         case 0: info.append("房间状态:空闲"); break;
         case 1: info.append("房间状态:已满"); break;
-        case 2: info.append("房间状态:已预约"); break;
+        case 2: info.append("房间状态:有预约"); break;
+        case 3: info.append("房间状态:已满,有预约"); break;
+        case 4: info.append("房间状态:维修"); break;
         }
         roomInfo->setText(info);
         ui->gridLayout_2->addWidget(roomInfo,i+1,j);

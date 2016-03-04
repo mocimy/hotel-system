@@ -185,7 +185,7 @@
              <bool>true</bool>
             </property>
             <property name="currentIndex">
-             <number>1</number>
+             <number>0</number>
             </property>
             <widget class="QWidget" name="page">
              <property name="mouseTracking">
@@ -248,10 +248,10 @@
              <widget class="QLineEdit" name="ageEdit">
               <property name="geometry">
                <rect>
-                <x>197</x>
-                <y>144</y>
-                <width>112</width>
-                <height>25</height>
+                <x>186</x>
+                <y>116</y>
+                <width>146</width>
+                <height>31</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -261,10 +261,10 @@
              <widget class="QLabel" name="label_5">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>185</y>
-                <width>48</width>
-                <height>16</height>
+                <x>116</x>
+                <y>159</y>
+                <width>64</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -277,10 +277,10 @@
              <widget class="QLineEdit" name="nameEdit">
               <property name="geometry">
                <rect>
-                <x>197</x>
-                <y>62</y>
-                <width>111</width>
-                <height>25</height>
+                <x>186</x>
+                <y>30</y>
+                <width>146</width>
+                <height>31</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -290,10 +290,10 @@
              <widget class="QLabel" name="label_3">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>103</y>
-                <width>24</width>
-                <height>16</height>
+                <x>116</x>
+                <y>73</y>
+                <width>32</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -306,23 +306,10 @@
              <widget class="QLineEdit" name="ID_numberEdit">
               <property name="geometry">
                <rect>
-                <x>197</x>
-                <y>185</y>
-                <width>261</width>
-                <height>25</height>
-               </rect>
-              </property>
-              <property name="mouseTracking">
-               <bool>true</bool>
-              </property>
-             </widget>
-             <widget class="QComboBox" name="sex">
-              <property name="geometry">
-               <rect>
-                <x>197</x>
-                <y>103</y>
-                <width>71</width>
-                <height>25</height>
+                <x>186</x>
+                <y>159</y>
+                <width>146</width>
+                <height>31</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -332,10 +319,10 @@
              <widget class="QLabel" name="label_4">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>144</y>
-                <width>24</width>
-                <height>16</height>
+                <x>116</x>
+                <y>116</y>
+                <width>32</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -348,10 +335,10 @@
              <widget class="QLabel" name="label_2">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>62</y>
-                <width>24</width>
-                <height>16</height>
+                <x>116</x>
+                <y>30</y>
+                <width>32</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -364,10 +351,10 @@
              <widget class="QLabel" name="label_6">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>226</y>
-                <width>49</width>
-                <height>16</height>
+                <x>116</x>
+                <y>202</y>
+                <width>64</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -380,10 +367,10 @@
              <widget class="QLineEdit" name="cityEdit">
               <property name="geometry">
                <rect>
-                <x>197</x>
-                <y>267</y>
-                <width>112</width>
-                <height>25</height>
+                <x>186</x>
+                <y>245</y>
+                <width>146</width>
+                <height>31</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -393,10 +380,10 @@
              <widget class="QLineEdit" name="workplaceEdit">
               <property name="geometry">
                <rect>
-                <x>197</x>
-                <y>226</y>
-                <width>261</width>
-                <height>25</height>
+                <x>186</x>
+                <y>202</y>
+                <width>146</width>
+                <height>31</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -406,10 +393,10 @@
              <widget class="QLabel" name="label_7">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>267</y>
-                <width>48</width>
-                <height>16</height>
+                <x>116</x>
+                <y>245</y>
+                <width>64</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -422,10 +409,10 @@
              <widget class="QLabel" name="label_9">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>349</y>
-                <width>36</width>
-                <height>16</height>
+                <x>116</x>
+                <y>331</y>
+                <width>48</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -438,10 +425,10 @@
              <widget class="QLabel" name="label_8">
               <property name="geometry">
                <rect>
-                <x>142</x>
-                <y>308</y>
-                <width>48</width>
-                <height>16</height>
+                <x>116</x>
+                <y>288</y>
+                <width>64</width>
+                <height>21</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -457,10 +444,10 @@
               </property>
               <property name="geometry">
                <rect>
-                <x>197</x>
-                <y>350</y>
-                <width>211</width>
-                <height>25</height>
+                <x>186</x>
+                <y>331</y>
+                <width>146</width>
+                <height>31</height>
                </rect>
               </property>
               <property name="mouseTracking">
@@ -473,8 +460,8 @@
              <widget class="QPushButton" name="chooseRoom">
               <property name="geometry">
                <rect>
-                <x>410</x>
-                <y>350</y>
+                <x>350</x>
+                <y>330</y>
                 <width>85</width>
                 <height>26</height>
                </rect>
@@ -489,8 +476,8 @@
              <widget class="QLabel" name="endTimeLabel">
               <property name="geometry">
                <rect>
-                <x>340</x>
-                <y>310</y>
+                <x>290</x>
+                <y>290</y>
                 <width>241</width>
                 <height>21</height>
                </rect>
@@ -502,8 +489,8 @@
              <widget class="QDoubleSpinBox" name="daySpinBox">
               <property name="geometry">
                <rect>
-                <x>200</x>
-                <y>300</y>
+                <x>186</x>
+                <y>288</y>
                 <width>74</width>
                 <height>31</height>
                </rect>
@@ -521,32 +508,184 @@
                <double>1.000000000000000</double>
               </property>
              </widget>
+             <widget class="QLabel" name="priceLabel">
+              <property name="geometry">
+               <rect>
+                <x>580</x>
+                <y>300</y>
+                <width>151</width>
+                <height>21</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>TextLabel</string>
+              </property>
+             </widget>
+             <widget class="QLineEdit" name="sexEdit">
+              <property name="geometry">
+               <rect>
+                <x>190</x>
+                <y>70</y>
+                <width>141</width>
+                <height>31</height>
+               </rect>
+              </property>
+             </widget>
+             <widget class="QPushButton" name="addManBtn">
+              <property name="geometry">
+               <rect>
+                <x>350</x>
+                <y>70</y>
+                <width>105</width>
+                <height>29</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>添加“男”</string>
+              </property>
+             </widget>
+             <widget class="QPushButton" name="addWomanBtn">
+              <property name="geometry">
+               <rect>
+                <x>470</x>
+                <y>70</y>
+                <width>105</width>
+                <height>29</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>添加“女”</string>
+              </property>
+             </widget>
             </widget>
             <widget class="QWidget" name="page_3">
              <property name="mouseTracking">
               <bool>true</bool>
              </property>
+             <widget class="QPushButton" name="btnAddCost">
+              <property name="geometry">
+               <rect>
+                <x>160</x>
+                <y>280</y>
+                <width>105</width>
+                <height>29</height>
+               </rect>
+              </property>
+              <property name="mouseTracking">
+               <bool>true</bool>
+              </property>
+              <property name="text">
+               <string>修改费用</string>
+              </property>
+             </widget>
+             <widget class="QPushButton" name="btnLeave">
+              <property name="geometry">
+               <rect>
+                <x>590</x>
+                <y>170</y>
+                <width>151</width>
+                <height>29</height>
+               </rect>
+              </property>
+              <property name="mouseTracking">
+               <bool>true</bool>
+              </property>
+              <property name="text">
+               <string>直接退房</string>
+              </property>
+             </widget>
+             <widget class="QPushButton" name="delayBtn">
+              <property name="geometry">
+               <rect>
+                <x>270</x>
+                <y>370</y>
+                <width>131</width>
+                <height>29</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>延长入住时间</string>
+              </property>
+             </widget>
+             <widget class="QDoubleSpinBox" name="delaySpinBox">
+              <property name="geometry">
+               <rect>
+                <x>190</x>
+                <y>370</y>
+                <width>74</width>
+                <height>31</height>
+               </rect>
+              </property>
+              <property name="decimals">
+               <number>1</number>
+              </property>
+              <property name="minimum">
+               <double>0.500000000000000</double>
+              </property>
+              <property name="singleStep">
+               <double>0.500000000000000</double>
+              </property>
+              <property name="value">
+               <double>0.500000000000000</double>
+              </property>
+             </widget>
+             <widget class="QLabel" name="delayLabel">
+              <property name="geometry">
+               <rect>
+                <x>440</x>
+                <y>370</y>
+                <width>281</width>
+                <height>21</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>TextLabel</string>
+              </property>
+             </widget>
+             <widget class="QLabel" name="delayPriceLabel">
+              <property name="geometry">
+               <rect>
+                <x>440</x>
+                <y>410</y>
+                <width>291</width>
+                <height>21</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>TextLabel</string>
+              </property>
+             </widget>
              <widget class="QWidget" name="layoutWidget">
               <property name="geometry">
                <rect>
-                <x>130</x>
-                <y>20</y>
-                <width>491</width>
-                <height>301</height>
+                <x>140</x>
+                <y>30</y>
+                <width>351</width>
+                <height>241</height>
                </rect>
               </property>
               <layout class="QGridLayout" name="gridLayout_5">
-               <item row="1" column="1" colspan="2">
-                <widget class="QLineEdit" name="lineEdit_9"/>
-               </item>
                <item row="0" column="0">
+                <widget class="QLabel" name="label_35">
+                 <property name="text">
+                  <string>房间费用</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="0" column="1">
+                <widget class="QLineEdit" name="costEdit"/>
+               </item>
+               <item row="1" column="0">
                 <widget class="QLabel" name="label_10">
                  <property name="text">
                   <string>食品消耗费</string>
                  </property>
                 </widget>
                </item>
-               <item row="1" column="0">
+               <item row="1" column="1">
+                <widget class="QLineEdit" name="cost1Edit"/>
+               </item>
+               <item row="2" column="0">
                 <widget class="QLabel" name="label_11">
                  <property name="mouseTracking">
                   <bool>true</bool>
@@ -556,51 +695,32 @@
                  </property>
                 </widget>
                </item>
-               <item row="2" column="0">
+               <item row="2" column="1">
+                <widget class="QLineEdit" name="cost2Edit"/>
+               </item>
+               <item row="3" column="0">
                 <widget class="QLabel" name="label_12">
                  <property name="text">
                   <string>损坏赔偿费</string>
                  </property>
                 </widget>
                </item>
-               <item row="2" column="1" colspan="2">
-                <widget class="QLineEdit" name="lineEdit_10"/>
-               </item>
-               <item row="0" column="1" colspan="2">
-                <widget class="QLineEdit" name="lineEdit_8"/>
+               <item row="3" column="1">
+                <widget class="QLineEdit" name="cost3Edit"/>
                </item>
               </layout>
              </widget>
-             <widget class="QPushButton" name="btnAddCost">
+             <widget class="QPushButton" name="BtnLeave2">
               <property name="geometry">
                <rect>
-                <x>170</x>
-                <y>360</y>
-                <width>105</width>
+                <x>590</x>
+                <y>220</y>
+                <width>151</width>
                 <height>29</height>
                </rect>
               </property>
-              <property name="mouseTracking">
-               <bool>true</bool>
-              </property>
               <property name="text">
-               <string>追加费用</string>
-              </property>
-             </widget>
-             <widget class="QPushButton" name="btnLeave">
-              <property name="geometry">
-               <rect>
-                <x>390</x>
-                <y>360</y>
-                <width>105</width>
-                <height>29</height>
-               </rect>
-              </property>
-              <property name="mouseTracking">
-               <bool>true</bool>
-              </property>
-              <property name="text">
-               <string>直接退房</string>
+               <string>以优惠价格退房</string>
               </property>
              </widget>
             </widget>
@@ -713,51 +833,61 @@
             <widget class="QWidget" name="page_7">
              <layout class="QGridLayout" name="gridLayout_12">
               <item row="0" column="0">
-               <layout class="QGridLayout" name="gridLayout_11">
-                <item row="0" column="0">
-                 <widget class="QLabel" name="label_19">
-                  <property name="text">
-                   <string>输入关键词以搜索数据库:</string>
-                  </property>
-                 </widget>
-                </item>
-                <item row="0" column="1" colspan="2">
-                 <widget class="QLineEdit" name="lineEdit_3"/>
-                </item>
-                <item row="2" column="0">
-                 <widget class="QPushButton" name="pushButton_5">
-                  <property name="text">
-                   <string>确认入住</string>
-                  </property>
-                 </widget>
-                </item>
-                <item row="2" column="1">
-                 <widget class="QPushButton" name="pushButton_6">
-                  <property name="text">
-                   <string>提交修改请求</string>
-                  </property>
-                 </widget>
-                </item>
-                <item row="2" column="2">
-                 <widget class="QPushButton" name="pushButton_10">
-                  <property name="text">
-                   <string>删除选中条目</string>
-                  </property>
-                 </widget>
-                </item>
-                <item row="1" column="0" colspan="3">
-                 <widget class="QTableView" name="reserveView"/>
+               <layout class="QHBoxLayout" name="horizontalLayout_4">
+                <item>
+                 <layout class="QGridLayout" name="gridLayout_11">
+                  <item row="0" column="1" colspan="2">
+                   <widget class="QLineEdit" name="searchEdit_3"/>
+                  </item>
+                  <item row="2" column="0">
+                   <widget class="QPushButton" name="confirmBtn">
+                    <property name="text">
+                     <string>确认入住</string>
+                    </property>
+                   </widget>
+                  </item>
+                  <item row="2" column="2">
+                   <widget class="QPushButton" name="delItemBtn">
+                    <property name="text">
+                     <string>删除选中条目</string>
+                    </property>
+                   </widget>
+                  </item>
+                  <item row="2" column="1">
+                   <widget class="QPushButton" name="submitChangeBtn">
+                    <property name="text">
+                     <string>提交修改</string>
+                    </property>
+                   </widget>
+                  </item>
+                  <item row="0" column="0">
+                   <widget class="QLabel" name="label_19">
+                    <property name="text">
+                     <string>输入关键词以搜索数据库:</string>
+                    </property>
+                   </widget>
+                  </item>
+                  <item row="1" column="0" colspan="3">
+                   <widget class="QTableView" name="reserveView">
+                    <property name="selectionMode">
+                     <enum>QAbstractItemView::SingleSelection</enum>
+                    </property>
+                    <property name="selectionBehavior">
+                     <enum>QAbstractItemView::SelectRows</enum>
+                    </property>
+                   </widget>
+                  </item>
+                 </layout>
                 </item>
                </layout>
               </item>
              </layout>
-             <zorder></zorder>
             </widget>
             <widget class="QWidget" name="page_8">
              <widget class="QPushButton" name="chooseRoom_2">
               <property name="geometry">
                <rect>
-                <x>490</x>
+                <x>470</x>
                 <y>340</y>
                 <width>85</width>
                 <height>29</height>
@@ -770,7 +900,7 @@
                <string>选择...</string>
               </property>
              </widget>
-             <widget class="QPushButton" name="pushButton_7">
+             <widget class="QPushButton" name="submitBtn">
               <property name="geometry">
                <rect>
                 <x>260</x>
@@ -783,10 +913,10 @@
                <string>提交请求</string>
               </property>
              </widget>
-             <widget class="QLabel" name="label_27">
+             <widget class="QLabel" name="endTimeLabel_2">
               <property name="geometry">
                <rect>
-                <x>500</x>
+                <x>470</x>
                 <y>290</y>
                 <width>231</width>
                 <height>21</height>
@@ -796,13 +926,13 @@
                <string>TextLabel</string>
               </property>
              </widget>
-             <widget class="QWidget" name="">
+             <widget class="QWidget" name="layoutWidget1">
               <property name="geometry">
                <rect>
-                <x>130</x>
-                <y>39</y>
-                <width>351</width>
-                <height>351</height>
+                <x>131</x>
+                <y>59</y>
+                <width>331</width>
+                <height>331</height>
                </rect>
               </property>
               <layout class="QGridLayout" name="gridLayout_13">
@@ -813,7 +943,7 @@
                  </property>
                 </widget>
                </item>
-               <item row="0" column="1" colspan="2">
+               <item row="0" column="1">
                 <widget class="QLineEdit" name="nameEdit_2"/>
                </item>
                <item row="1" column="0">
@@ -823,7 +953,7 @@
                  </property>
                 </widget>
                </item>
-               <item row="1" column="1" colspan="2">
+               <item row="1" column="1">
                 <widget class="QLineEdit" name="telEdit"/>
                </item>
                <item row="2" column="0">
@@ -833,9 +963,6 @@
                  </property>
                 </widget>
                </item>
-               <item row="2" column="1" colspan="2">
-                <widget class="QLineEdit" name="dateEdit"/>
-               </item>
                <item row="3" column="0">
                 <widget class="QLabel" name="label_23">
                  <property name="text">
@@ -843,8 +970,8 @@
                  </property>
                 </widget>
                </item>
-               <item row="3" column="2">
-                <widget class="QComboBox" name="timeBox"/>
+               <item row="3" column="1">
+                <widget class="QTimeEdit" name="timeEdit"/>
                </item>
                <item row="4" column="0">
                 <widget class="QLabel" name="label_26">
@@ -853,7 +980,7 @@
                  </property>
                 </widget>
                </item>
-               <item row="4" column="2">
+               <item row="4" column="1">
                 <widget class="QDoubleSpinBox" name="doubleSpinBox">
                  <property name="minimum">
                   <double>1.000000000000000</double>
@@ -863,7 +990,7 @@
                  </property>
                 </widget>
                </item>
-               <item row="5" column="0" colspan="2">
+               <item row="5" column="0">
                 <widget class="QLabel" name="label_24">
                  <property name="mouseTracking">
                   <bool>true</bool>
@@ -873,7 +1000,7 @@
                  </property>
                 </widget>
                </item>
-               <item row="5" column="2">
+               <item row="5" column="1">
                 <widget class="QLineEdit" name="roomEdit_2">
                  <property name="enabled">
                   <bool>false</bool>
@@ -886,7 +1013,23 @@
                  </property>
                 </widget>
                </item>
+               <item row="2" column="1">
+                <widget class="QSpinBox" name="DataSpinBox"/>
+               </item>
               </layout>
+             </widget>
+             <widget class="QLabel" name="priceLabel_2">
+              <property name="geometry">
+               <rect>
+                <x>580</x>
+                <y>200</y>
+                <width>73</width>
+                <height>21</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>TextLabel</string>
+              </property>
              </widget>
             </widget>
             <widget class="QWidget" name="page_11">
@@ -901,20 +1044,27 @@
                  </widget>
                 </item>
                 <item row="1" column="0" colspan="3">
-                 <widget class="QTableView" name="tableView_3"/>
+                 <widget class="QTableView" name="allReserveView">
+                  <property name="selectionMode">
+                   <enum>QAbstractItemView::SingleSelection</enum>
+                  </property>
+                  <property name="selectionBehavior">
+                   <enum>QAbstractItemView::SelectRows</enum>
+                  </property>
+                 </widget>
                 </item>
                 <item row="0" column="1" colspan="2">
-                 <widget class="QLineEdit" name="lineEdit_7"/>
+                 <widget class="QLineEdit" name="searchEdit_4"/>
                 </item>
                 <item row="2" column="0">
-                 <widget class="QPushButton" name="pushButton_8">
+                 <widget class="QPushButton" name="submitChangeBtn_2">
                   <property name="text">
                    <string>提交修改请求</string>
                   </property>
                  </widget>
                 </item>
                 <item row="2" column="1">
-                 <widget class="QPushButton" name="pushButton_9">
+                 <widget class="QPushButton" name="delItemBtn_2">
                   <property name="text">
                    <string>删除选中条目</string>
                   </property>
@@ -952,15 +1102,15 @@
             <item>
              <widget class="QToolBox" name="toolBox">
               <property name="currentIndex">
-               <number>1</number>
+               <number>0</number>
               </property>
               <widget class="QWidget" name="page_5">
                <property name="geometry">
                 <rect>
                  <x>0</x>
                  <y>0</y>
-                 <width>90</width>
-                 <height>90</height>
+                 <width>928</width>
+                 <height>349</height>
                 </rect>
                </property>
                <attribute name="label">
@@ -968,7 +1118,7 @@
                </attribute>
                <layout class="QGridLayout" name="gridLayout_8">
                 <item row="0" column="0">
-                 <widget class="QTableView" name="logView"/>
+                 <widget class="QListWidget" name="listWidget"/>
                 </item>
                </layout>
               </widget>
@@ -977,8 +1127,8 @@
                 <rect>
                  <x>0</x>
                  <y>0</y>
-                 <width>928</width>
-                 <height>349</height>
+                 <width>90</width>
+                 <height>90</height>
                 </rect>
                </property>
                <attribute name="label">
@@ -1003,121 +1153,393 @@
          <attribute name="title">
           <string>系统设置</string>
          </attribute>
-         <widget class="QLabel" name="label_16">
-          <property name="geometry">
-           <rect>
-            <x>120</x>
-            <y>90</y>
-            <width>73</width>
-            <height>21</height>
-           </rect>
-          </property>
-          <property name="text">
-           <string>用户口令:</string>
-          </property>
-         </widget>
-         <widget class="QLabel" name="label_17">
-          <property name="geometry">
-           <rect>
-            <x>120</x>
-            <y>130</y>
-            <width>73</width>
-            <height>21</height>
-           </rect>
-          </property>
-          <property name="text">
-           <string>楼层数:</string>
-          </property>
-         </widget>
-         <widget class="QCheckBox" name="checkBox">
-          <property name="geometry">
-           <rect>
-            <x>120</x>
-            <y>170</y>
-            <width>141</width>
-            <height>26</height>
-           </rect>
-          </property>
-          <property name="text">
-           <string>开启调试模式</string>
-          </property>
-         </widget>
-         <widget class="QLabel" name="label_18">
-          <property name="geometry">
-           <rect>
-            <x>70</x>
-            <y>230</y>
-            <width>73</width>
-            <height>21</height>
-           </rect>
-          </property>
-          <property name="text">
-           <string>导出数据</string>
-          </property>
-         </widget>
-         <widget class="QComboBox" name="comboBox">
-          <property name="geometry">
-           <rect>
-            <x>150</x>
-            <y>230</y>
-            <width>85</width>
-            <height>31</height>
-           </rect>
-          </property>
-         </widget>
-         <widget class="QPushButton" name="pushButton">
-          <property name="geometry">
-           <rect>
-            <x>250</x>
-            <y>230</y>
-            <width>105</width>
-            <height>29</height>
-           </rect>
-          </property>
-          <property name="text">
-           <string>导出</string>
-          </property>
-         </widget>
-         <widget class="QLineEdit" name="lineEdit">
-          <property name="geometry">
-           <rect>
-            <x>210</x>
-            <y>80</y>
-            <width>113</width>
-            <height>31</height>
-           </rect>
-          </property>
-         </widget>
-         <widget class="QLineEdit" name="lineEdit_2">
-          <property name="geometry">
-           <rect>
-            <x>200</x>
-            <y>130</y>
-            <width>113</width>
-            <height>31</height>
-           </rect>
-          </property>
-         </widget>
-         <widget class="QGroupBox" name="groupBox">
-          <property name="geometry">
-           <rect>
-            <x>560</x>
-            <y>50</y>
-            <width>281</width>
-            <height>271</height>
-           </rect>
-          </property>
-          <property name="title">
-           <string>统计信息</string>
-          </property>
-         </widget>
+         <layout class="QGridLayout" name="gridLayout_18">
+          <item row="0" column="0">
+           <widget class="QStackedWidget" name="stackedWidget_3">
+            <property name="currentIndex">
+             <number>0</number>
+            </property>
+            <widget class="QWidget" name="page_9">
+             <widget class="QGroupBox" name="groupBox_3">
+              <property name="geometry">
+               <rect>
+                <x>480</x>
+                <y>230</y>
+                <width>349</width>
+                <height>171</height>
+               </rect>
+              </property>
+              <property name="title">
+               <string>备份和恢复</string>
+              </property>
+              <layout class="QGridLayout" name="gridLayout_17">
+               <item row="0" column="0" colspan="2">
+                <widget class="QLabel" name="label_18">
+                 <property name="text">
+                  <string>创建新备份</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="0" column="2" colspan="2">
+                <widget class="QLineEdit" name="backupNameEdit"/>
+               </item>
+               <item row="0" column="4">
+                <widget class="QPushButton" name="backupBtn">
+                 <property name="text">
+                  <string>备份</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="0">
+                <widget class="QLabel" name="label_29">
+                 <property name="text">
+                  <string>恢复备份</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="2" column="0" colspan="3">
+                <widget class="QPushButton" name="reinitializeBtn">
+                 <property name="text">
+                  <string>重新初始化系统</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="4">
+                <widget class="QPushButton" name="restoreBtn">
+                 <property name="text">
+                  <string>恢复</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="2" colspan="2">
+                <widget class="QComboBox" name="backupBox"/>
+               </item>
+               <item row="2" column="3" colspan="2">
+                <widget class="QPushButton" name="delBackupBtn">
+                 <property name="text">
+                  <string>删除选中备份</string>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+             <widget class="QGroupBox" name="groupBox_2">
+              <property name="geometry">
+               <rect>
+                <x>55</x>
+                <y>30</y>
+                <width>291</width>
+                <height>401</height>
+               </rect>
+              </property>
+              <property name="title">
+               <string>系统参数</string>
+              </property>
+              <layout class="QGridLayout" name="gridLayout_16">
+               <item row="2" column="1">
+                <widget class="QComboBox" name="skinBox">
+                 <property name="currentText">
+                  <string/>
+                 </property>
+                 <property name="currentIndex">
+                  <number>-1</number>
+                 </property>
+                 <property name="minimumContentsLength">
+                  <number>0</number>
+                 </property>
+                </widget>
+               </item>
+               <item row="3" column="1">
+                <widget class="QFontComboBox" name="fontComboBox"/>
+               </item>
+               <item row="3" column="0">
+                <widget class="QLabel" name="label_27">
+                 <property name="text">
+                  <string>系统字体</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="5" column="1">
+                <widget class="QLineEdit" name="floorEdit"/>
+               </item>
+               <item row="0" column="0" colspan="2">
+                <widget class="QCheckBox" name="passwordCheckBox">
+                 <property name="text">
+                  <string>需口令登陆</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="0">
+                <widget class="QLabel" name="label_16">
+                 <property name="text">
+                  <string>用户口令:</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="1">
+                <widget class="QLineEdit" name="passwordEdit">
+                 <property name="echoMode">
+                  <enum>QLineEdit::Password</enum>
+                 </property>
+                </widget>
+               </item>
+               <item row="5" column="0">
+                <widget class="QLabel" name="label_17">
+                 <property name="text">
+                  <string>楼层数:</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="2" column="0">
+                <widget class="QLabel" name="label_28">
+                 <property name="text">
+                  <string>系统皮肤</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="7" column="1">
+                <widget class="QPushButton" name="roomEditBtn">
+                 <property name="text">
+                  <string>编辑房间信息</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="6" column="0">
+                <widget class="QLabel" name="label_34">
+                 <property name="text">
+                  <string>优惠价折数：</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="6" column="1">
+                <widget class="QSpinBox" name="favSpinBox">
+                 <property name="maximum">
+                  <number>10</number>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+             <widget class="QGroupBox" name="groupBox">
+              <property name="geometry">
+               <rect>
+                <x>540</x>
+                <y>30</y>
+                <width>251</width>
+                <height>181</height>
+               </rect>
+              </property>
+              <property name="title">
+               <string>统计信息</string>
+              </property>
+              <layout class="QGridLayout" name="gridLayout_20">
+               <item row="3" column="0">
+                <widget class="QPushButton" name="refreshBtn">
+                 <property name="text">
+                  <string>刷新</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="0" column="0">
+                <widget class="QLabel" name="label_31">
+                 <property name="text">
+                  <string>入住率</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="0">
+                <widget class="QLabel" name="label_32">
+                 <property name="text">
+                  <string>预约率</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="2" column="0">
+                <widget class="QLabel" name="label_33">
+                 <property name="text">
+                  <string>营收</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="3" column="1">
+                <widget class="QPushButton" name="detailBtn">
+                 <property name="text">
+                  <string>查看明细</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="0" column="1">
+                <widget class="QLabel" name="checkRatesLabel">
+                 <property name="text">
+                  <string>TextLabel</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="1">
+                <widget class="QLabel" name="bookingRatesLabel">
+                 <property name="text">
+                  <string>TextLabel</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="2" column="1">
+                <widget class="QLabel" name="revenueLabel">
+                 <property name="text">
+                  <string>TextLabel</string>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="page_10">
+             <layout class="QGridLayout" name="gridLayout_19">
+              <item row="0" column="0">
+               <widget class="QPushButton" name="goBackBtn">
+                <property name="text">
+                 <string>返回</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1" colspan="4">
+               <widget class="QLabel" name="label_30">
+                <property name="text">
+                 <string>本页面用来编辑房间信息。请使用序号代替房间类型。点击添加后会在表尾添加一个新的项。</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="3">
+               <widget class="QPushButton" name="addRoomTypeBtn">
+                <property name="text">
+                 <string>添加</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="4">
+               <widget class="QPushButton" name="delRoomTypeBtn">
+                <property name="text">
+                 <string>删除</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0" colspan="3">
+               <widget class="QTableView" name="roomView">
+                <property name="selectionMode">
+                 <enum>QAbstractItemView::SingleSelection</enum>
+                </property>
+                <property name="selectionBehavior">
+                 <enum>QAbstractItemView::SelectRows</enum>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QPushButton" name="addroomBtn">
+                <property name="text">
+                 <string>添加</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="1">
+               <widget class="QPushButton" name="delroomBtn">
+                <property name="text">
+                 <string>删除</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="3" colspan="2">
+               <widget class="QTableView" name="roomTypeView">
+                <property name="selectionMode">
+                 <enum>QAbstractItemView::SingleSelection</enum>
+                </property>
+                <property name="selectionBehavior">
+                 <enum>QAbstractItemView::SelectRows</enum>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="2">
+               <widget class="QPushButton" name="sortBtn">
+                <property name="text">
+                 <string>重新排序</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+            <widget class="QWidget" name="page_12">
+             <layout class="QVBoxLayout" name="verticalLayout_5">
+              <item>
+               <layout class="QHBoxLayout" name="horizontalLayout_5">
+                <item>
+                 <widget class="QPushButton" name="goBackBtn_2">
+                  <property name="text">
+                   <string>返回</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <spacer name="horizontalSpacer_5">
+                  <property name="orientation">
+                   <enum>Qt::Horizontal</enum>
+                  </property>
+                  <property name="sizeHint" stdset="0">
+                   <size>
+                    <width>327</width>
+                    <height>20</height>
+                   </size>
+                  </property>
+                 </spacer>
+                </item>
+                <item>
+                 <widget class="QComboBox" name="statisticsBox">
+                  <property name="minimumSize">
+                   <size>
+                    <width>150</width>
+                    <height>0</height>
+                   </size>
+                  </property>
+                  <item>
+                   <property name="text">
+                    <string>入住情况统计</string>
+                   </property>
+                  </item>
+                  <item>
+                   <property name="text">
+                    <string>预约情况统计</string>
+                   </property>
+                  </item>
+                  <item>
+                   <property name="text">
+                    <string>收入情况统计</string>
+                   </property>
+                  </item>
+                 </widget>
+                </item>
+                <item>
+                 <spacer name="horizontalSpacer_6">
+                  <property name="orientation">
+                   <enum>Qt::Horizontal</enum>
+                  </property>
+                  <property name="sizeHint" stdset="0">
+                   <size>
+                    <width>326</width>
+                    <height>20</height>
+                   </size>
+                  </property>
+                 </spacer>
+                </item>
+               </layout>
+              </item>
+             </layout>
+            </widget>
+           </widget>
+          </item>
+         </layout>
         </widget>
        </widget>
       </item>
      </layout>
     </item>
    </layout>
-   <zorder></zorder>
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">

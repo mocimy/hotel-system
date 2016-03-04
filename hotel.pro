@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui sql
+QT       += core gui sql printsupport
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -19,15 +19,23 @@ SOURCES += main.cpp\
     setting.cpp \
     chooseroom.cpp \
     rooms.cpp \
-    log.cpp
+    log.cpp \
+    confirmreservation.cpp \
+    askforpasswd.cpp \
+    qcustomplot.cpp
 
 HEADERS  += mainwindow.h \
     chooseroom.h \
-    rooms.h
+    rooms.h \
+    confirmreservation.h \
+    askforpasswd.h \
+    qcustomplot.h
 
 FORMS    += mainwindow.ui \
     chooseroom.ui \
-    rooms.ui
+    rooms.ui \
+    confirmreservation.ui \
+    askforpasswd.ui
 
 DISTFILES +=
 
